@@ -1,4 +1,17 @@
 h1 {
   text-align: center;
-  color: blue;
+  color: black;
+}
+
+button {
+  border-radius: 25px;
+  background: #8064e9;
+  display: block;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+img {
+  display: block;
+  width: 600px;
 }
