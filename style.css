@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  color: black;
+  color: white;
 }
 
 button {
@@ -12,6 +12,8 @@ button {
 }
 
 img {
-  display: block;
-  width: 600px;
+  margin: 0 auto;
+  width: 300px;
+  padding: 25px;
+  margin: 15px;
 }
